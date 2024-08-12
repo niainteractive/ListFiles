@@ -1,5 +1,5 @@
 <?php
-namespace NiaInteractive\ListFiles\Components;
+namespace niainteractive\ListFiles\Components;
 
 class ListFiles extends \Cms\Classes\ComponentBase
 {
